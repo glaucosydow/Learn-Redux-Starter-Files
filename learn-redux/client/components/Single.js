@@ -4,9 +4,9 @@ const Single = React.createClass({
   render() {
     return (
       <div className="single-photo">
-        Single
+      I'm the single
       </div>
-    );
+    )
   }
 });
 
